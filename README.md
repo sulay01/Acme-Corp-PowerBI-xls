@@ -1,4 +1,6 @@
-# Acme Corporation SEO Traffic Analysis
+# Acme Corporation SEO Traffic Analysis for Coalition Technologies
+Author: Sulay Cay
+Date: 03-Feb-2025
 
 ## Overview
 This repository contains the **SEO Traffic Analysis Report** for Acme Corporation, prepared by **Sulay Cay**. It includes a comprehensive analysis of organic traffic trends, key findings, technical SEO insights, and actionable recommendations. The report now incorporates **country-specific traffic data**, providing deeper insights into how different regions contribute to overall SEO performance.
