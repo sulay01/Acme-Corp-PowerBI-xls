@@ -35,15 +35,35 @@ Download and review the full **SEO Traffic Report** to understand insights and r
 
 ### Organic Traffic Trends
 ![Organic Traffic Trends](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/images/organic-traffic-trends.png)
+![image](https://github.com/user-attachments/assets/cc37dca0-03a1-4ab6-9472-5ba999cee4e8)
 
-### Power BI Dashboard
-![Power BI Dashboard](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/images/powerbi-dashboard.png)
+
 
 ### Country-Specific SEO Traffic
 ![Country-Specific Traffic](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/images/country-seo-traffic.png)
+![image](https://github.com/user-attachments/assets/fcff781e-a25f-4211-95d6-8c50367077ea)
 
 
 
+### Excel Spreadsheet 
+
+Month	Traffic	Fluctuation	Actual Traffic
+Jan	12000	1174	13174
+Feb	13500	1507	15007
+Mar	14000	-1140	12860
+Apr	15500	-706	14794
+May	16000	-870	15130
+Jun	17000	-905	16095
+Jul	17500	1772	19272
+Aug	18000	1092	19092
+Sep	15000	-362	14638
+Oct	14500	169	14669
+Nov	14000	-1534	12466
+Dec	15320	-762	14558
+			
+			
+			
+			![image](https://github.com/user-attachments/assets/7762dbee-c24b-4628-af7c-475817328c34)
 
 
 
