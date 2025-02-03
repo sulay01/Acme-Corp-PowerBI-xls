@@ -37,14 +37,10 @@ Download and review the full **SEO Traffic Report** to understand insights and r
 📄 **[SEO Traffic Report (PDF with Power BI)](sandbox:/mnt/data/Acme_Corp_SEO_Traffic_With-Countries_PowerBi%20(1).pdf)**  
 📊 **[SEO Traffic Data (Excel Spreadsheet)](sandbox:/mnt/data/Acme_Corp_seo_traffic_data_.xlsx)**  
 📈 **[Power BI Report (PDF Format)](sandbox:/mnt/data/Acme%20Corp%20SEO%20Traffic%20Data%20Power%20BI%20BY%20SULAY%20CAY.pdf)**  
-📑 **[Acme Corp SEO Traffic Data Power BI PDF](sandbox:/mnt/data/Acme%20Corp%20SEO%20Traffic%20Data%20Power%20BI%20BY%20SULAY%20CAY.pdf)**  
-📑 **[Acme Corp SEO Traffic with Countries Power BI PDF](sandbox:/mnt/data/Acme_Corp_SEO_Traffic_With-Countries_PowerBi%20(1).pdf)**
-📄 **[SEO Traffic Report (PDF with Power BI)](sandbox:/mnt/data/Acme_Corp_SEO_Traffic_With-Countries_PowerBi%20(1).pdf)**  
-📊 **[SEO Traffic Data (Excel Spreadsheet)](sandbox:/mnt/data/Acme_Corp_seo_traffic_data_.xlsx)**  
-📈 **[Power BI Report (PDF Format)](sandbox:/mnt/data/Acme%20Corp%20SEO%20Traffic%20Data%20Power%20BI%20BY%20SULAY%20CAY.pdf)**  
+📊 **[Power BI Dashboard (PBIX File)](sandbox:/mnt/data/Acme_Corp_SEO_Traffic_Data_With_Countries%20(1).pbix)**
 
-## Contact
-For any questions or further details, feel free to reach out:  
-📧 **Email:** cay.sulay@gmail.com  
+## Author
+**Author:** Sulay Cay  
+📅 **Date:** February 2, 2025  
 🔗 **LinkedIn:** [Sulay Cay](https://www.linkedin.com/in/sulay-cay-0589513a/)
 
