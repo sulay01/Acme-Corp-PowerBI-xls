@@ -46,7 +46,7 @@ Download and review the full **SEO Traffic Report** to understand insights and r
 
 
 ### Excel Spreadsheet 
-
+![SEOTraffic](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/seo_traffic_report_with_powerbi_excel.pdf.png)
 Month	Traffic	Fluctuation	Actual Traffic
 Jan	12000	1174	13174
 Feb	13500	1507	15007
@@ -63,7 +63,25 @@ Dec	15320	-762	14558
 			
 			
 			
-			![image](https://github.com/user-attachments/assets/7762dbee-c24b-4628-af7c-475817328c34)
+			Month	Traffic	Fluctuation	Actual Traffic
+Jan	12000	1174	13174
+Feb	13500	1507	15007
+Mar	14000	-1140	12860
+Apr	15500	-706	14794
+May	16000	-870	15130
+Jun	17000	-905	16095
+Jul	17500	1772	19272
+Aug	18000	1092	19092
+Sep	15000	-362	14638
+Oct	14500	169	14669
+Nov	14000	-1534	12466
+Dec	15320	-762	14558
+			
+			
+			
+			![image](https://github.com/user-attachments/assets/338f13c3-3580-4e2a-a437-72e8eb1a0477)
+![image](https://github.com/user-attachments/assets/6a710a57-b8c7-4b91-8d2b-edca775d9b40)
+
 
 
 
