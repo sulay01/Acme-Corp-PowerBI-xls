@@ -48,7 +48,6 @@ Download and review the full **SEO Traffic Report** to understand insights and r
 
 ## Downloads
 
-### SEO Reports & Data
 
 ### SEO Reports & Data
 📄 **[SEO Traffic Report (PDF with Power BI)](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/Acme_Corp_SEO_Traffic_With-Countries_PowerBi%20(1).pdf)**  
