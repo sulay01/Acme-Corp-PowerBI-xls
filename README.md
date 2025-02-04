@@ -54,6 +54,13 @@ Download and review the full **SEO Traffic Report** to understand insights and r
 📊 **[SEO Traffic Data (Excel Spreadsheet)](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/Acme_Corp_seo_traffic_data_by_sulay_cay.xlsx)**  
 📈 **[Power BI Report (PDF Format)](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/Acme%20Corp%20SEO%20Traffic%20Data%20Power%20BI%20BY%20SULAY%20CAY.pdf)**  
 📊 **[Power BI Dashboard 1 (PBIX File)](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/Acme_Corp_SEO_Traffic_Data_With_Countries%20(1).pbix)**
+📊 **[SEO Traffic Report ANALYSIS (PDF with Power BI)](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/seo_traffic_report_with_powerbi_excel.pdf)**
+
+
+
+
+
+
 
 ## Author
 **Author:** Sulay Cay  
