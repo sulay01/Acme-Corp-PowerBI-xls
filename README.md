@@ -34,13 +34,13 @@ Download and review the full **SEO Traffic Report** to understand insights and r
 ## Visual Insights
 
 ### Organic Traffic Trends
-![Organic Traffic Trends](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/images/organic-traffic-trends.png)
+
 ![image](https://github.com/user-attachments/assets/cc37dca0-03a1-4ab6-9472-5ba999cee4e8)
 
 
 
 ### Country-Specific SEO Traffic
-![Country-Specific Traffic](https://github.com/sulay01/Acme-Corp-PowerBI-xls/blob/main/images/country-seo-traffic.png)
+
 ![image](https://github.com/user-attachments/assets/fcff781e-a25f-4211-95d6-8c50367077ea)
 
 
