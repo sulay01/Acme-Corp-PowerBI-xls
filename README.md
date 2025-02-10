@@ -77,3 +77,4 @@ Thank you for reviewing this project! 🚀
 📅 **Date:** February 2, 2025  
 🔗 **LinkedIn:** [Sulay Cay](https://www.linkedin.com/in/sulay-cay-0589513a/)
 
+## Resources: Coalition Technology
